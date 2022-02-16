@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+:root{
+    --cor1: black;
+    --cor2: white;
+    --cor3: gray;
+    --cor4: grey;
+}
+.Tema{
+    color: var(--cor2);
+    background-color: black;
+    height: 100px;
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    margin: auto;
+} 
+.Tema > h1{
+    font-family: 'Great Vibes', cursive;
+    font-size: 50px;
+}
