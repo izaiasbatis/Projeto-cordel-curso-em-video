@@ -21,15 +21,17 @@
     font-size: 50px;
 }
 section{
+    background-size: cover;
     background-image: url(../img/img1.jpg);
 
 }
-p{
+#c1{
     width: 50%;
     font-size: x-large;
     text-align: left;
-    line-height: 26px;
+    line-height: 30px;
     background-color: rgba(0, 0, 0, 0.514);
     color: var(--cor2);
+    padding-left: 10px;
 
 }
