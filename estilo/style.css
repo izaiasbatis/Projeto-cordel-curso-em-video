@@ -91,6 +91,7 @@
 .s3{
     background-image: url(../img/img2.jpg);
     background-attachment: fixed;
+    background-repeat: no-repeat;
 }
 .c5{
     color: var(--cor2);
