@@ -79,7 +79,7 @@
     display: flex;
 }
 #c4d1{
-    width: 50%;
+    width: 54%;
 }
 #c4d2{
     width: 50%;
@@ -107,7 +107,7 @@
     display: flex;
 }
 .c6d1{
-    width: 50%;
+    width: 54%;
 }
 .c6d2{
     color: var(--cor2);
@@ -117,5 +117,6 @@
     padding-top: 10px;
     line-height: 30px;
     font-size: x-large;
+
     
 }
