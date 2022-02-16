@@ -41,6 +41,7 @@
     background-color: rgba(0, 0, 0, 0.514);
     color: var(--cor2);
     padding-left: 10px;
+    padding-top: 30px;
 }
 .c2{
     width: 100%;
@@ -71,6 +72,7 @@
     line-height: 30px;
     text-align: left;
     padding-left: 10px;
+    padding-top: 10px;
 }
 .c4{
     width: 100%;
@@ -84,8 +86,35 @@
     line-height: 30px;
     font-size: x-large;
     padding-right: 10px;
+    padding-top: 10px;
 }
 .s3{
     background-image: url(../img/img2.jpg);
     background-attachment: fixed;
+}
+.c5{
+    color: var(--cor2);
+    padding-top: 30px;
+    width: 50%;
+    background-color:var(--cor5);
+    font-size: x-large;
+    line-height: 30px;
+    padding-left: 10px;
+}
+.c6{
+    width: 100%;
+    display: flex;
+}
+.c6d1{
+    width: 50%;
+}
+.c6d2{
+    color: var(--cor2);
+    width: 50%;
+    background-color:var(--cor5);
+    padding-left: 10px;
+    padding-top: 10px;
+    line-height: 30px;
+    font-size: x-large;
+    
 }
