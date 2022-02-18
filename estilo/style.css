@@ -5,6 +5,7 @@
     --cor3: gray;
     --cor4: grey;
     --cor5: rgba(0, 0, 0, 0.514); /*Efeito transparente*/
+    /* font-size: 10vw; ao utilizar isso vc permite que seja 2% da Width sempre*/
 }
 .Tema{
     color: var(--cor2);
@@ -27,7 +28,7 @@ a{
     text-decoration: none; /*para retirar a decoração underline frequente do link*/
 }
 a:hover{
-    /*text-decoration: underline; para adicionar decoração underline apenas quando passar o mouse no ink*/
+   /* text-decoration: underline; para adicionar decoração underline apenas quando passar o mouse no ink*/
 
 }
 .s1{
@@ -84,14 +85,16 @@ a:hover{
     display: flex;
 }
 #c4d1{
-    width: 52%;
+    width: 50%;
 }
 #c4d2{
     width: 50%;
     line-height: 30px;
     font-size: x-large;
     padding-right: 10px;
+    padding-left: 30px;
     padding-top: 10px;
+    
 }
 .s3{
     background-image: url(../img/img2.jpg);
